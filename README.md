@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **cardona.j.andrew@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1z_c-MEh9DjXz4DhfyyXj--QrPIT4g_VN/view?usp=drive_link](https://drive.google.com/file/d/1z_c-MEh9DjXz4DhfyyXj--QrPIT4g_VN/view?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1z_c-MEh9DjXz4DhfyyXj--QrPIT4g_VN/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
