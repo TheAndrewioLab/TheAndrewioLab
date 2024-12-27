@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [an autonomous robot](https://github.com/TheAndrewioLab/autonomous-robot)
+- 🔭 I’m currently working on a 48-12 Buck Converter.
 
-- 🌱 I’m currently learning **more about microcontrollers**
+- 🌱 I’m currently learning **more about microcontrollers & PCB Design**
 
 - 👨‍💻 All of my projects are available at [my website](https://sites.google.com/g.ucla.edu/andrewio/home)
 
 - 📫 How to reach me **cardona.j.andrew@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1z_c-MEh9DjXz4DhfyyXj--QrPIT4g_VN/view?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/drive/u/4/my-drive)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
