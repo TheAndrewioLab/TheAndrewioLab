@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **more about microcontrollers & PCB Design**
 
-- 👨‍💻 All of my projects are available at [my website](https://sites.google.com/g.ucla.edu/andrewio/home)
+- 👨‍💻 All of my projects are available on [my website](https://sites.google.com/g.ucla.edu/andrewio/home)
 
 - 📫 How to reach me **cardona.j.andrew@gmail.com**
 
